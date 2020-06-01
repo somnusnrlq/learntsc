@@ -34,4 +34,5 @@ function greeter(person: Person) {
 let user = new Student('李', '冰', '泉')
 
 document.body.innerHTML = greeter(user)
+
 `
