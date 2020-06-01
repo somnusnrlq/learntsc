@@ -12,7 +12,7 @@ function greeter(person: string) {...}
 
 3. 类：支持基于类的面向对象编程 greeter3.ts
 
-`
+` javascript
 class Student {
   fullName: string
   // 构造函数
@@ -34,5 +34,4 @@ function greeter(person: Person) {
 let user = new Student('李', '冰', '泉')
 
 document.body.innerHTML = greeter(user)
-
 `
